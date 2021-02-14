@@ -9,6 +9,8 @@
 
 
 ⚡ Fun fact: I've got few games ready to be published on mobile market and I used to write blog posts about Photoshop techniques between 2006 and 2012.
+🚀 Wow! Released my first game on Google Play Store already. Please have a look and get it. 
+<a href="https://play.google.com/store/apps/details?id=iso.carnival.game" target="_blank"><img src="https://play-lh.googleusercontent.com/AHC_JZbQoWKsx2_cVlFqYwtnZIVjWNkXyeSojfx7wiHxarftIJw8pgpUzwpJ1DNcpzBb=s180-rw" width="40" height="40"/></a> Carnival Horse Racing Game
 
 
 #### Languages and Tools I've been using:
